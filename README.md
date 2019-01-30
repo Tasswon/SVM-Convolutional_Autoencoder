@@ -1,10 +1,10 @@
 # SVC Classifier with Convolutional Autoencoder for Feature Extraction
 
 ## Software
-Python3 \\
-Tensorflow-gpu \\
-Matplotlib\\
-Numpy\\
+Python3\
+Tensorflow-gpu\
+Matplotlib\
+Numpy\
 Sklearn
 
 ## Description
