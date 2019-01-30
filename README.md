@@ -1,4 +1,4 @@
-# SVC Classifier with a Convolutional Autoencoder for Feature Extraction
+# SVM Classifier with a Convolutional Autoencoder for Feature Extraction
 
 ## Software
 Python3\
